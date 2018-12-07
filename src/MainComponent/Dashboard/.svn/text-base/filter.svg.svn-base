@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.166 18.859">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #4dd3c9;
+      }
+
+      .cls-1 {
+        stroke-width: 0.9px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.7px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_196" data-name="Group 196" transform="translate(0 18.859) rotate(-90)">
+    <g id="Ellipse_121" data-name="Ellipse 121" class="cls-1" transform="translate(0 5.388)">
+      <circle class="cls-3" cx="2.694" cy="2.694" r="2.694"/>
+      <circle class="cls-4" cx="2.694" cy="2.694" r="2.244"/>
+    </g>
+    <g id="Ellipse_122" data-name="Ellipse 122" class="cls-1" transform="translate(6.735 0)">
+      <circle class="cls-3" cx="2.694" cy="2.694" r="2.694"/>
+      <circle class="cls-4" cx="2.694" cy="2.694" r="2.244"/>
+    </g>
+    <g id="Ellipse_123" data-name="Ellipse 123" class="cls-1" transform="translate(18.859 16.165) rotate(180)">
+      <circle class="cls-3" cx="2.694" cy="2.694" r="2.694"/>
+      <circle class="cls-4" cx="2.694" cy="2.694" r="2.244"/>
+    </g>
+    <path id="Path_332" data-name="Path 332" class="cls-2" d="M0,5.71V0" transform="translate(2.694 0)"/>
+    <path id="Path_333" data-name="Path 333" class="cls-2" d="M0,5.679V0" transform="translate(2.694 10.486)"/>
+    <path id="Path_334" data-name="Path 334" class="cls-2" d="M0,0V11.051" transform="translate(9.43 5.114)"/>
+    <path id="Path_335" data-name="Path 335" class="cls-2" d="M0,0V11.051" transform="translate(16.165 11.051) rotate(180)"/>
+  </g>
+</svg>

@@ -1,0 +1,111 @@
+  body{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans";
+}
+.connection-section{
+    width: 650px;
+    margin: 50px auto;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0px 0px 4px 0 rgba(0, 0, 0, 0.35);
+}
+.connection-section h2{
+    color: #707070;
+    font-size: 26px;
+    padding: 20px;
+}
+.tabs-section{
+    margin-bottom: 30px;
+}
+.tabs-section ul{
+    margin: 0;
+    padding: 0px;
+}
+.tabs-section ul li{
+    cursor: pointer;
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 10px 0 10px;
+}
+.marginX{
+margin-bottom: 15px
+}
+
+.uploadtext{
+    color: #6B6B6B;
+    font-size: 15px;
+}
+.image-upload-wrap {
+        height: 250px;  
+        padding: 30px;
+        cursor: pointer;
+        position: relative;
+        margin-bottom: 15px;
+        border: 1px dashed transparent;
+        /* border: 1px dashed rgba(3, 169, 244, 0.28); */
+       background-image: url(../../assets/images/fileuploaderImg.svg) no-repeat;
+}
+.image-upload-wrap:hover { 
+        padding: 30px;  
+        margin-bottom: 15px;            
+        border: 1px dashed #03A9F4;
+        background-color: rgba(3, 169, 244, 0.06);
+}
+.browser-section{
+        text-align: center;
+        width: 620px;
+        margin: 0px 0px 20px auto;
+        box-sizing: border-box;
+} 
+.browser-section .bttn{
+    height: 34px;
+    color: #fff;
+    cursor: pointer;
+    padding: 0 20px;
+    font-weight: 600;
+    margin-top: 15px;
+    border-style: none;
+    border-radius: 20px;
+    background:#2257CE;
+}
+
+
+.connectors__wrapper{
+    padding: 30px;
+    position: relative;
+    display: flex;
+}
+
+.connectors__wrapper-list{
+    width: 160px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 1px 7px 1px rgba(0,0,0,.16);
+    margin-right: 15px;
+    border-radius: 6px;
+}
+
+.connectors__wrapper-list  .img-wrapper{
+    height: 90px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.connectors__wrapper-list  .img-wrapper > img{
+    max-height: 60px
+}
+
+.connectors__wrapper-list h4{
+    margin:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    font-size: 15px;
+    /*font-weight: 300  */
+}

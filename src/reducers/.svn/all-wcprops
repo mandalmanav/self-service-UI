@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CareCloudPlatform/!svn/ver/19817/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers
+END
+SavedObjects.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CareCloudPlatform/!svn/ver/18945/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/SavedObjects.jsx
+END
+Page.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/Page.jsx
+END
+DataSources.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CareCloudPlatform/!svn/ver/19544/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/DataSources.jsx
+END
+DataObjects.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CareCloudPlatform/!svn/ver/18929/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/DataObjects.jsx
+END
+SavedDashboardObjects.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CareCloudPlatform/!svn/ver/18591/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/SavedDashboardObjects.jsx
+END
+UpdateDatasource-reducer.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/UpdateDatasource-reducer.jsx
+END
+FileDetails.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CareCloudPlatform/!svn/ver/19519/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/FileDetails.jsx
+END
+Dashboard.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CareCloudPlatform/!svn/ver/19040/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/Dashboard.jsx
+END
+SelectedColumns.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/SelectedColumns.jsx
+END
+TableListReducer.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/TableListReducer.jsx
+END
+Join.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CareCloudPlatform/!svn/ver/19543/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/Join.jsx
+END
+DataSourceListReducer.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/DataSourceListReducer.jsx
+END
+WorkboardListReducer.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CareCloudPlatform/!svn/ver/19817/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/WorkboardListReducer.jsx
+END
+url.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/url.jsx
+END
+SelectedRows.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/SelectedRows.jsx
+END
+ColumnListReducer.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/ColumnListReducer.jsx
+END
+FetchServiceData.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/FetchServiceData.jsx
+END
+BusinessObjects.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/BusinessObjects.jsx
+END
+SelfServiceObjectListReducer.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CareCloudPlatform/!svn/ver/18436/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/SelfServiceObjectListReducer.jsx
+END
+index.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CareCloudPlatform/!svn/ver/19519/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/index.jsx
+END
+Tables.jsx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CareCloudPlatform/!svn/ver/19561/NBA_Testing/branches/micro-services/selfServiceUI/src/reducers/Tables.jsx
+END

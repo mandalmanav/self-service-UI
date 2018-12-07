@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/config
+END
+webpackDevServer.config.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/config/webpackDevServer.config.js
+END
+env.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/config/env.js
+END
+polyfills.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/config/polyfills.js
+END
+webpack.config.dev.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/config/webpack.config.dev.js
+END
+paths.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/config/paths.js
+END
+webpack.config.prod.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CareCloudPlatform/!svn/ver/18288/NBA_Testing/branches/micro-services/selfServiceUI/config/webpack.config.prod.js
+END

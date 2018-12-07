@@ -1,0 +1,25 @@
+  body{
+            margin: 0;
+            padding: 0;
+            font-family: "Open Sans";
+        }
+        .connection-section{
+            width: 600px;
+            margin: 0 auto;
+        }
+        .tabs-section{
+             margin-bottom: 30px;
+        }
+        .tabs-section ul{
+            margin: 0;
+            padding: 0px;
+        }
+        .tabs-section ul li{
+            cursor: pointer;
+            list-style-type: none;
+            display: inline-block;
+            margin: 0 10px 0 10px;
+        }
+.marginX{
+margin-bottom: 15px
+}

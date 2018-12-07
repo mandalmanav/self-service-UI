@@ -1,0 +1,49 @@
+@import '~antd/dist/antd.css';
+
+.matadata-body{
+    top: 40px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px; 
+    overflow-y: auto;
+    position: absolute;
+    background: #EAEAEA;
+    height: calc(100% - 40px);
+    /* display: flex;
+    align-items: center;
+    justify-items: center */
+}
+.matadata-body h2 {
+    margin: 30px;
+    font-size: 30px;
+    color: #2257CE;
+    font-weight: 300;
+    text-align: center;
+}
+.explore-page {
+  background: #fff;
+    width: 720px;
+    margin: 0 auto;
+    padding: 0;
+    -webkit-box-shadow: -1px 2px 9px rgba(0, 0, 0, 0.32);
+    box-shadow: -1px 2px 9px rgba(0, 0, 0, 0.32);
+    border-radius: 10px;
+    /* margin-top: -120px; */
+}
+.explorebtn button {
+    text-transform: capitalize;
+}
+
+.selectDS__wrapper {
+    background: #fff;
+    width: 720px;
+    margin: 0 auto;
+    padding: 0;
+    -webkit-box-shadow: -1px 2px 9px rgba(0, 0, 0, 0.32);
+    box-shadow: -1px 2px 9px rgba(0, 0, 0, 0.32);
+    border-radius: 10px;
+    /* margin-top: -120px; */
+}
+.explorebtn button {
+    text-transform: capitalize;
+}
